@@ -40,6 +40,7 @@ class DBAction
             }
         }
     }
+    
     // Visa alla elever i en klass
     public void ShowClass()
     {
